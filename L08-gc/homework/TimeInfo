@@ -1,0 +1,21 @@
+
+До изменения кода
+
+256мб - не запустилось
+500 мб - spend msec:12543, sec:12
+2 гб - spend msec:11053, sec:11
+3гб - spend msec:10873, sec:10
+3,5 гб - spend msec:10373, sec:10
+4 гб - spend msec:10818, sec:10
+5гб - spend msec:11191, sec:11
+Оптимальный размер хипа - 3,5 гб
+
+После изменения кода
+256мб - spend msec:7235, sec:7
+500 мб - spend msec:5168, sec:5
+2 гб - spend msec:2782, sec:2
+3гб - spend msec:3010, sec:3
+3,5 гб - spend msec:3072, sec:3
+4 гб - spend msec:3149, sec:3
+5гб - spend msec:3188, sec:3
+Оптимальный размер хипа - 2 гб
